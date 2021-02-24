@@ -5,7 +5,7 @@
   **Teacher: Fernando Aguilar Sanchez (FAS)** 
 ### Digital Systems Design
   **Score: -**  
-  **Teacher: -**
+  **Teacher: Victor Hugo Garcia Ortega**
 ### Computer Architecture
   **Score: -**  
   **Teacher: -**
